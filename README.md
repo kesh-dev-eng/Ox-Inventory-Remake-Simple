@@ -4,7 +4,7 @@ A customized version of [ox_inventory](https://github.com/overextended/ox_invent
 
 ## 📸 Preview
 
-![Inventory Preview](https://via.placeholder.com/800x400?text=Inventory+Screenshot)
+![Inventory Preview](https://github.com/kesh-dev-eng/Ox-Inventory-Remake-Simple/blob/main/Inv.png)
 
 ## ✨ Features
 
